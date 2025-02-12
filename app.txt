@@ -1,4 +1,4 @@
-메인브랜치 코드수
+메인브랜치
 aaaaaaaaaaaaa
 bbbbbb
 cccc
